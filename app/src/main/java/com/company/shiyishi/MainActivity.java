@@ -12,7 +12,7 @@ import android.os.Bundle;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String TAG = "main_MainActivity";
+    private static final String TAG = "some_MainActivity";
 
     private ArrayList<JavaBean> list = new ArrayList<>();
     @Override
